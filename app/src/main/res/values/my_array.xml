@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="study">
+        <item>java</item>
+        <item>android</item>
+        <item>jsp</item>
+    </string-array>
+
+    <string-array name="friend">
+        <item>a</item>
+        <item>b</item>
+        <item>c</item>
+        <item>d</item>
+        <item>e</item>
+        <item>f</item>
+        <item>g</item>
+        <item>h</item>
+        <item>i</item>
+        <item>j</item>
+    </string-array>
+
+
+</resources>
+    <!--    배열같은 개념임
+            study란 이름의 배열-->

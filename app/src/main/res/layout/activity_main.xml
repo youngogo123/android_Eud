@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context=".MainActivity">
+
+    <Spinner
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:entries="@array/study"
+        />
+
+    <!--  spinner는 배열중 하나를 선택해서 사용하는 구조기에
+          entries를 통해서 리소스를 참조한다.-->
+    <!--    @ : 참조
+            +@ : 생성@array/study
+           @array/study :  배열study를 참조해겠다-->
+
+
+
+</androidx.constraintlayout.widget.ConstraintLayout>
